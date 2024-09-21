@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Renata Schilling</h1>
-<h3 align="center">Sou estudante de Bootcamp de QA, tenho graduação tecnológica em Logística, trabalhei na área por 2 anos, quero poder conciliar Logística com Analista de QA.</h3>
+<h3 align="center">Sou estudante de Bootcamp de QA, com graduação tecnológica em Logística e 2 anos de experiência prática na área. Durante minha carreira em logística, desenvolvi uma forte compreensão de operações, gestão de frotas e otimização de processos. Agora, estou focada em garantir a qualidade de soluções tecnológicas, buscando conciliar minha experiência em logística com o papel de Analista de QA. Estou aprendendo e desenvolvendo habilidades em automação de testes, testes funcionais e não funcionais, além de metodologias ágeis, com o objetivo de aplicar esses conhecimentos em sistemas de logística, garantindo eficiência e confiabilidade nos processos operacionais. Busco oportunidades que permitam unir minha paixão por logística e tecnologia, ajudando a construir soluções robustas e de alto desempenho.</h3>
 
 - 🔭 I’m currently working on **Prefeitura Municipal de Cachoeiras de Macacu**
 
 - 🌱 I’m currently learning **Graduação Tecnológica em Logística**
 
-- 💬 Ask me about **Testes Manuais, Testes Positivos, Testes Negativos, Testes de API**
+- 💬 Ask me about **Qualidade de Software (QA), Automação de Testes, Testes Funcionais e Não Funcionais, Logística (Gestão de Frotas, Cadeia de Suprimentos, Otimização de Processos) Experiência com Ferramentas de Teste.**
 
 - 📫 How to reach me **renataschilling@hotmail.com**
 
@@ -14,4 +14,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
