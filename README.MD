@@ -5,7 +5,7 @@
 
 - 🌱 Sou graduada:  **Tecnólogo em Logística**
 
-- 💬 Pergunte-me sobre **Qualidade de Software (QA), Automação de Testes, Testes Funcionais e Não Funcionais, Logística (Gestão de Frotas, Cadeia de Suprimentos, Otimização de Processos) Experiência com Ferramentas de Teste.**
+- 💬 Pergunte-me sobre: **Qualidade de Software (QA), Automação de Testes, Testes Funcionais e Não Funcionais, Logística (Gestão de Frotas, Cadeia de Suprimentos, Otimização de Processos) Experiência com Ferramentas de Teste.**
 
 - 📫 Como me encontrar **renataschilling@hotmail.com**
 
