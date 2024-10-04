@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou a Renata Schilling</h1>
 <h3 align="center">Sou estudante de Bootcamp de QA, com graduação tecnológica em Logística e 2 anos de experiência prática na área. Durante minha carreira em logística, desenvolvi uma forte compreensão de operações, gestão de frotas e otimização de processos. Agora, estou focada em garantir a qualidade de soluções tecnológicas, buscando conciliar minha experiência em logística com o papel de Analista de QA. Estou aprendendo e desenvolvendo habilidades em automação de testes, testes funcionais e não funcionais, além de metodologias ágeis, com o objetivo de aplicar esses conhecimentos em sistemas de logística, garantindo eficiência e confiabilidade nos processos operacionais. Busco oportunidades que permitam unir minha paixão por logística e tecnologia, ajudando a construir soluções robustas e de alto desempenho.</h3>
 
-- 🔭 I’m currently working on **Prefeitura Municipal de Cachoeiras de Macacu**
+- 🔭 Atuakmente trabalho na  **Prefeitura Municipal de Cachoeiras de Macacu**
 
-- 🌱 I’m currently learning **Graduação Tecnológica em Logística**
+- 🌱 Sou graduada:  **Tecnólogo em Logística**
 
 - 💬 Ask me about **Qualidade de Software (QA), Automação de Testes, Testes Funcionais e Não Funcionais, Logística (Gestão de Frotas, Cadeia de Suprimentos, Otimização de Processos) Experiência com Ferramentas de Teste.**
 
