@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋, eu sou a Renata Schilling</h1>
 <h3 align="center">Sou mãe, formada em Logística e em transição de carreira para Analista de Qualidade (QA). Me tornar mãe mudou minha perspectiva de vida, trazendo resiliência, foco e uma capacidade aprimorada de resolver problemas. Essas qualidades, me ajudam a trazer uma visão estruturada e organizada ao campo da qualidade de software.
 Em 2000, tive meu primeiro contato com a faculdade de Análise de Sistemas, onde estudei por cerca de um ano. Durante esse período, desenvolvi interesse por programação, especialmente em linguagens como C e C++, com as quais tive uma familiarização inicial, ainda que de forma superficial. No entanto, devido a circunstâncias da vida, precisei interromper os estudos. Agora, após 23 anos, decidi retomar minha trajetória na área de TI e recentemente concluí o curso de Analista de QA. Estou completamente fascinada e apaixonada por essa área, e meu objetivo é continuar crescendo profissionalmente nela.
-Atualmente, estou me especializando em análise de testes, automação e metodologias ágeis, com o objetivo de garantir a excelência nos processos e produtos. 
-
+Atualmente, estou me especializando em análise de testes, automação e metodologias ágeis, com o objetivo de garantir a excelência nos processos e produtos.
 
 - 🔭 Atualmente trabalho na  **Prefeitura Municipal de Cachoeiras de Macacu**
 
