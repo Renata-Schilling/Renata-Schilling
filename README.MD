@@ -3,13 +3,13 @@
 Em 2000, tive meu primeiro contato com a faculdade de Análise de Sistemas, onde estudei por cerca de um ano. Durante esse período, desenvolvi interesse por programação, especialmente em linguagens como C e C++, com as quais tive uma familiarização inicial, ainda que de forma superficial. No entanto, devido a circunstâncias da vida, precisei interromper os estudos. Agora, após 23 anos, decidi retomar minha trajetória na área de TI e recentemente concluí o curso de Analista de QA. Estou completamente fascinada e apaixonada por essa área, e meu objetivo é continuar crescendo profissionalmente nela.
 Atualmente, estou me especializando em análise de testes, automação e metodologias ágeis, com o objetivo de garantir a excelência nos processos e produtos.
 
-- 🔭 Atualmente trabalho na  **Prefeitura Municipal de Cachoeiras de Macacu**
+🔭 Atualmente trabalho na  **Prefeitura Municipal de Cachoeiras de Macacu**
 
-- 🌱 Sou graduada:  **Tecnólogo em Logística**
+ 🌱 Sou graduada:  **Tecnólogo em Logística**
 
-- 💬 Pergunte-me sobre: **Qualidade de Software (QA), Automação de Testes, Testes Funcionais e Não Funcionais, Logística (Gestão de Frotas, Cadeia de Suprimentos, Otimização de Processos) Experiência com Ferramentas de Teste.**
+ Pergunte-me sobre: **Qualidade de Software (QA), Automação de Testes, Testes Funcionais e Não Funcionais, Logística (Gestão de Frotas, Cadeia de Suprimentos, Otimização de Processos) Experiência com Ferramentas de Teste.**
 
-- 📫 Como me encontrar **renataschilling@hotmail.com**
+📫 Como me encontrar **renataschilling@hotmail.com**
 
 <h3 align="left">Conectar comigo:</h3>
 <p align="left">
