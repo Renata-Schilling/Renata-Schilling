@@ -12,7 +12,7 @@ Atualmente, estou me especializando em análise de testes, automação e metodol
 📫 Como me encontrar **renataschilling@hotmail.com**
 
 <h3 align="left">Conectar comigo:</h3>
-<p align="left">
+<p align="left"> <a href="https://www.linkedin.com/in/renata-schilling/">Linkedin</a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
