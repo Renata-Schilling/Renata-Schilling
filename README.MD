@@ -9,7 +9,7 @@ Atualmente, estou me especializando em análise de testes, automação e metodol
 
  Pergunte-me sobre: **Qualidade de Software (QA), Automação de Testes, Testes Funcionais e Não Funcionais, Logística (Gestão de Frotas, Cadeia de Suprimentos, Otimização de Processos) Experiência com Ferramentas de Teste.**
 
-📫 Como me encontrar **renataschilling@hotmail.com**
+📫 Como me encontrar **renataschilling@gmail.com**
 
 <h3 align="left">Conectar comigo:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/renata-schilling/">Linkedin</a>
